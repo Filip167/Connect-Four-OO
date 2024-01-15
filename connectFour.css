@@ -1,0 +1,24 @@
+#game-board td {
+    width: 60px;
+    height: 60px;
+    border: solid 2px #333;
+  }
+  
+  
+  .piece {
+    margin: 8px;
+    width: 70%;
+    height: 70%;
+    border-radius: 50%;
+  }
+  
+  
+  #column-top td {
+    border: dashed 2px lightgray;
+  }
+  
+  #column-top td:hover {
+    background-color: #ffd700;
+  }
+ 
+  
